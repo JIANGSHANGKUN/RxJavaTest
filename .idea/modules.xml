@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RxJava1.0Test/RxJava1.0Test.iml" filepath="$PROJECT_DIR$/RxJava1.0Test/RxJava1.0Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RxJavaTest.iml" filepath="$PROJECT_DIR$/RxJavaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava2.0test/rxjava2.0test.iml" filepath="$PROJECT_DIR$/rxjava2.0test/rxjava2.0test.iml" />
+    </modules>
+  </component>
+</project>
